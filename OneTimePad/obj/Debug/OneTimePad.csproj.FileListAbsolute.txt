@@ -1,0 +1,10 @@
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\bin\Debug\OneTimePad.exe.config
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\bin\Debug\OneTimePad.exe
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\bin\Debug\OneTimePad.pdb
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.csprojAssemblyReference.cache
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.Form1.resources
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.Properties.Resources.resources
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.csproj.GenerateResource.cache
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.csproj.CoreCompileInputs.cache
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.exe
+C:\Users\z3roc\source\repos\OneTimePad\OneTimePad\obj\Debug\OneTimePad.pdb
