@@ -14,7 +14,7 @@ namespace OneTimePad
 
             for (int i = 0; i < plainBinary.Count; i++)
             {
-                result.Add(string.Join(null, Enumerable.Zip(plainBinary[i], keyBinary[i], (a, b) => a == b ? '0' : '1')));
+                result.Add(string.Join(null, Enumerable.Zip(plainBinary[i], keyBinary[i], (a, b) => (Convert.ToByte(a) ^ Convert.ToByte(b)) == 0 ? '0' : '1')));
             }
 
             return result;
